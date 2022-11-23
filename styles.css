@@ -129,7 +129,7 @@ h1 {
 }
 
 .photo {
-  background-image: url(/images/image-avatar.png);
+  background-image: url(images/image-avatar.png);
   width: 36px;
   height: 36px;
   background-size: cover;
